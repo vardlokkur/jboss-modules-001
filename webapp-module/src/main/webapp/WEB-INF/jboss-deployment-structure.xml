@@ -1,0 +1,8 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="warlock.echo" services="export" />
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>
+
